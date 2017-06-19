@@ -1,0 +1,8 @@
+gov/vta/userlocation/dto/UserLocation.class
+gov/vta/userlocation/controller/UserLocationController.class
+gov/vta/User.class
+gov/vta/userlocation/repository/IUserLocationRepository.class
+gov/vta/userlocation/repository/UserLocationRepo.class
+VTA/VTA/App.class
+gov/vta/userlocation/UserLocationApp.class
+gov/vta/userlocation/service/UserLocationService.class
